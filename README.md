@@ -85,7 +85,7 @@ Each of these questions was explored using SQL
 - Product returns are concentrated among *Consumer customers*.
 - Categories with most returns include *Furniture* and *Office Supplies*.
 
-  ### 🔹 [Click Here to download the Queries](./Queries/PROJECT-DSA.txt)
+  ### 🔹 [Click Here to download the Queries](PROJECT-DSA.txt)
 
 ---
 
